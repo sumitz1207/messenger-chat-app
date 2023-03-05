@@ -1,11 +1,11 @@
 import React, {useState} from "react";
 import Map from "./Map.jsx";
 
-function MapView (props) {
-    return (
-    <section className="w-screen h-full max-h-full">
-        <Map />
-    </section>
+function MapView(props){
+    return(
+        <section>
+            <Map />
+        </section>
     );
 }
 
