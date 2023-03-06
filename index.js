@@ -1,7 +1,7 @@
 import React from 'react';
 
-const SomeComponent = () => {
-  return <div>some Component</div>;
+const ChatComponent = () => {
+  return <div>chat Component</div>;
 };
 
-export default SomeComponent;
+export default ChatComponent;
